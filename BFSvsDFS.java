@@ -1,5 +1,3 @@
-package Finished;
-
 import java.util.LinkedList;
 import java.util.Stack;
 
